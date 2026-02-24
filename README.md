@@ -8,6 +8,12 @@ This project transforms the logic from the NDOT Concrete Mix Excel document to a
  - Run the code, and input the listed values from the scenario of your choice when prompted.
  - Fill any inapplicable fields with 0.
  - Code will return a finished weight chart.
+
 ## Repo Structure
+ - [Flow Chart](CIVE202_Spring 2026_Group6_Project2_FlowChart.pdf)
+ - [Scope of Work](CIVE202_Spring2025_Group6_Project2_ScopeOfWork.pdf)
  - [Python Model](CIVE202_Spring2026_Group6_Project2.ipynb)
+ - [Annotated Code Document](CIVE202_Spring2026_Group6_Project2_AnnotatedCodeDocument.pdf)
  - [Mix Scenarios Research and Documentation](CIVE202_Spring2026_Group6_Project2_MixDesignResearch.pdf)
+ - [Written Report](CIVE202_Spring2026_Group6_Project2_WrittenReport.pdf)
+ - [Project Gantt Chart](CIVE202_Spring_2025_Group6_Project2_GanttChart.xlsx)
