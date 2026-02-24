@@ -10,7 +10,7 @@ This project transforms the logic from the NDOT Concrete Mix Excel document to a
  - Code will return a finished weight chart.
 
 ## Repo Structure
- - [Flow Chart](CIVE202_Spring 2026_Group6_Project2_FlowChart.pdf)
+ - [Flow Chart](https://github.com/TessaS12/Project-2---NDOT-Mix-Design/blob/main/CIVE202_Spring%202026_Group6_Project2_FlowChart.pdf)
  - [Scope of Work](CIVE202_Spring2025_Group6_Project2_ScopeOfWork.pdf)
  - [Python Model](CIVE202_Spring2026_Group6_Project2.ipynb)
  - [Annotated Code Document](CIVE202_Spring2026_Group6_Project2_AnnotatedCodeDocument.pdf)
