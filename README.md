@@ -10,4 +10,4 @@ This project transforms the logic from the NDOT Concrete Mix Excel document to a
  - Code will return a finished weight chart.
 ## Repo Structure
  - [Python Model](CIVE202_Spring2026_Group6_Project2.ipynb)
- - [Mix Scenarios Research and Documentation](https://github.com/TessaS12/Project-2---NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group6_Project2_MixDesignResearch.pdf)
+ - [Mix Scenarios Research and Documentation](CIVE202_Spring2026_Group6_Project2_MixDesignResearch.pdf)
